@@ -1,0 +1,5 @@
+#database
+wp-config.php
+
+#pictures
+wp-content/uploads/*
